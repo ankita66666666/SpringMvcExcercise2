@@ -1,6 +1,6 @@
 package com.stackroute.controller;
 
-import com.stackroute.User;
+import com.stackroute.domain.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,7 +22,7 @@ public class AppController {
     public String success(@RequestParam("username") String username, @RequestParam("password") String passsword, ModelMap map) {
         User user = new User();
         user.setName(username);
-        map.addAttribute("user", user);
+        map.addAttribute("user", user.getName());
         return "success";
     }
 
