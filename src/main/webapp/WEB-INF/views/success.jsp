@@ -2,6 +2,6 @@
 pageEncoding="UTF-8" isELIgnored="false"%>
 <html>
 <body>
-<h2>Welcome ${user} to stack route!</h2>
+<h2>Welcome ${user} to stackroute!</h2>
 </body>
 </html>

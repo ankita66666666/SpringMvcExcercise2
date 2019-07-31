@@ -1,0 +1,21 @@
+
+Y
+).idea/artifacts/SpringMvc5TaskTwo_war.xml,8/a/8a8ffb2f3b6a180e4b9719452ab005db94d4c5fc
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+E
+SpringMvc5TaskTwo.iml,5/c/5c18bb87f6e7bfbdfc72b2fdfdab24a6b164cf05
+b
+2src/main/java/com/stackroute/config/AppConfig.java,e/c/ec355cce23f1af86b5adbd631d873d746a38385f
+g
+7src/main/java/com/stackroute/config/AppInitializer.java,6/8/6840b5f8368ca4677caaa28d1073f73899ee7c03
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+W
+'src/main/webapp/WEB-INF/views/index.jsp,3/0/305b3bb8194d08e1e32b17ac5f1d53c1cf0118c1
+j
+:src/main/java/com/stackroute/controller/AppController.java,4/0/40baacf96cbd2d42e1193b76acd0719d8a624485
+]
+-src/main/java/com/stackroute/domain/User.java,c/5/c5980f4c56c2f24262fb4a066f7ad24a7211e1de
+Y
+)src/main/webapp/WEB-INF/views/success.jsp,3/6/363be2e0b5a7c656ac9175f6dacb01b5d8a1b232

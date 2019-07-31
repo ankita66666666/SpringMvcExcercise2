@@ -2,6 +2,8 @@ package com.stackroute.config;
 
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+//Used to override the method of inherited class
+//This is predefined class
 
     public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
         @Override

@@ -1,4 +1,6 @@
 package com.stackroute.domain;
+//Created a user class with variable which stores the username
+//Using setter for that variables.
 
 public class User {
 
