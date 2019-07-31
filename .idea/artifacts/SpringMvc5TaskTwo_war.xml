@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringMvc5TaskTwo.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMvc5TaskTwo_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringMvc5TaskTwo.war" />
+    </root>
+  </artifact>
+</component>
